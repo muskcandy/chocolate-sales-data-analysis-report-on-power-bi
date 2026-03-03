@@ -1,4 +1,8 @@
 # chocolate-sales-data-analysis-report-on-power-bi
+🖼 Dashboard Preview
+<img width="2361" height="1273" alt="Screenshot 2026-03-02 143254" src="https://github.com/user-attachments/assets/20ea0358-4dcd-4497-87ea-24ebf0577956" />
+
+<br>
 📌 Project Overview
 
 This project presents an end-to-end data analysis and interactive dashboard built using Power BI to analyze chocolate sales performance across products, regions, time periods, and salespersons. The dashboard enables business stakeholders to quickly understand trends, identify top-performing products and regions, and monitor profitability.
@@ -15,7 +19,8 @@ Regional performance
 
 Product and salesperson contributions
 
-
+<br>
+<br>
 
 🎯 Business Objectives
 
@@ -31,7 +36,8 @@ Evaluate regional sales contribution
 
 Measure salesperson performance
 
-
+<br>
+<br>
 
 🛠 Tools & Technologies
 
@@ -42,6 +48,9 @@ Microsoft Excel – Data source & preprocessing
 DAX (Data Analysis Expressions) – KPI calculations
 
 Data Visualization Techniques
+
+<br>
+<br>
 
 📊 Key KPIs (From Dashboard)
 Metric	Value
@@ -99,10 +108,8 @@ Total boxes shipped
 
 Profit %
 
-
-🖼 Dashboard Preview
-<img width="2361" height="1273" alt="Screenshot 2026-03-02 143254" src="https://github.com/user-attachments/assets/20ea0358-4dcd-4497-87ea-24ebf0577956" />
-
+<br>
+<br>
 
 🧠 Key Learnings
 
@@ -116,6 +123,8 @@ Applied data storytelling principles
 
 Enhanced visual analytics and reporting skills
 
+<br>
+<br>
 
 🚀 Future Enhancements
 
@@ -127,7 +136,8 @@ Implement drill-through analysis
 
 Deploy dashboard to Power BI Service
 
-
+<br>
+<br>
 
 👤 Author
 
